@@ -1,9 +1,0 @@
-label,factor,weight
-label_return_20d,ret20d,0.14794061644604348
-label_return_20d,rel_return_20d,0.14794061644604348
-label_return_20d,price_position,0.1455843315859866
-label_return_20d,momentum_strength,0.14234989675824966
-label_return_20d,rel_strength,0.1368463199130607
-label_return_20d,ret5d,0.11320203806034584
-label_return_20d,rel_return_5d,0.11320203806034584
-label_return_20d,rel_volatility,0.05293414272992434
